@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Pedro Costa 👑
 
  <div>
-   <a href="https://github.com/PedroCosta">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroCosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCosta&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <a href="https://github.com/Pedrin2025">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrin2025&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrin2025&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
     
 <div style="display: inline_block"><br>
